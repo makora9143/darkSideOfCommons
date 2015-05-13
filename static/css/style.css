@@ -1,0 +1,39 @@
+body {
+    padding-top: 60px;
+}
+
+#wrap {
+    width:780px;
+    text-align: left;
+    margin:0; auto;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+#inner {
+    margin:0 10px;
+}
+
+#content {
+    list-style-type: none;
+}
+
+#content div {
+    margin: 0 0  1px 0;
+    padding: 5px 25px 25px 0;
+    line-height: 120%
+}
+
+.container {
+    max-width: 768px;
+}
+#chat-area {
+    margin-bottom: 15px;
+}
+.meta {
+    color: #999999;
+    font-size: 0.9em;
+}
+.chat-time {
+    margin-left: 15px;
+}
